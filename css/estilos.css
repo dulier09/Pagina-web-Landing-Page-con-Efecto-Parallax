@@ -281,4 +281,9 @@ main{
     #icon_heart{
         left: 0;
     }
+
+    .banner__text{
+        width: 100%;
+        margin-top: -100px;
+    }
 }
